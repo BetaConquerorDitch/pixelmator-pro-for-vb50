@@ -1,4 +1,4 @@
-
+rare Filter for Pixelmator Pro for macOS - shortcut customization and plugin support offers the most advanced Pixelmator Pro for macOS filter, with shortcut customization and
 
 
 
